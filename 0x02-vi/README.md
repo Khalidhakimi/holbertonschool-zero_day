@@ -1,0 +1,1 @@
+This is about basic commands of vi
